@@ -1,15 +1,15 @@
 Metadata-Version: 2.1
 Name: stmodels
-Version: 0.0.1
+Version: 0.0.0.1
 Summary: Run Outliers Detection, etc.
-Home-page: https://github.com/pypa/sampleproject
+Home-page: https://github.com/flownait/stmodels
 Author: Steven Zheng
 Author-email: tianwolf@msn.com
 License: UNKNOWN
 Description: # stmodels
         
         This is a models for some common business analytics processing
-        [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+        [Link](https://github.com/flownait/stmodels)
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
